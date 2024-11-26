@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="../assets/css/style.css" />
+  </head>
+  <body>
+    <div class="signUp_container">
+      <div class="rectangle"></div>
+      <div class="signUp_container_main">
+        <h1>Sign up</h1>
+        <form action="" class="formSignUp" autocomplete="off">
+          <label for="username">Username</label>
+          <input
+            type="text"
+            id="username"
+            name="username"
+            placeholder="Enter your username"
+            autocomplete="off"
+          />
+          <label for="pass">Password</label>
+          <input
+            type="password"
+            name="pass"
+            id="pass"
+            placeholder="Enter your password"
+            autocomplete="off"
+          />
+          <label for="confirmPass">Confirm password</label>
+          <input
+            type="password"
+            name="confirmPass"
+            id="confirmPass"
+            placeholder="Enter your confirm password"
+            autocomplete="off"
+          />
+          <h5 class="message"></h5>
+          <input type="submit" value="Button" />
+          <p>Already signed In? <a href="../signIn.html">Go to sign In.</a></p>
+        </form>
+      </div>
+    </div>
+
+    <script src="../assets/js/SignUp.js"></script>
+  </body>
+</html>

@@ -1,0 +1,66 @@
+{
+  "Booklist": [
+    {
+      "id": "25",
+      "bookTitle": "An Eco-Critical Appraisal of the Selected",
+      "isbn": "978-81-933904-9-8",
+      "cover": "http://www.kypublications.com/Rabiawani.jpg",
+      "published": 2018,
+      "author": "Rabia Mukhtar",
+      "pages": "221",
+      "position": "New"
+    },
+    {
+      "id": "19",
+      "bookTitle": "ACCIDENTS DO NOT HAPPEN",
+      "isbn": "978-81-933904-8-1",
+      "cover": "http://www.kypublications.com/FRONT.jpg",
+      "published": 2018,
+      "author": "Dr Sankar Rajeev",
+      "pages": "215",
+      "position": "New"
+    },
+    {
+      "id": "45",
+      "bookTitle": "Human Rights Challenges: Strategies for Achieving",
+      "isbn": "978-81-933904-7-4",
+      "cover": "http://www.kypublications.com/FRONT..jpg",
+      "published": 2017,
+      "author": "Dr T Johnson Sampathkumar & Dr B Madhana Rekha",
+      "pages": "321",
+      "position": "New"
+    },
+    {
+      "id": "75",
+      "bookTitle": "PROPAGATION OF GLORY LILY(Gloriosa superba L.)",
+      "isbn": "978-81-933904-6-7",
+      "cover": "http://www.kypublications.com/img16.jpg",
+      "published": 2017,
+      "author": "Dr. S. ANANDHI",
+      "pages": "157",
+      "position": "New"
+    }
+  ],
+  "myBooklist": [
+    {
+      "id": "19",
+      "bookTitle": "ACCIDENTS DO NOT HAPPEN",
+      "isbn": "978-81-933904-8-1",
+      "cover": "http://www.kypublications.com/FRONT.jpg",
+      "published": 2018,
+      "author": "Dr Sankar Rajeev",
+      "pages": "215",
+      "position": "Reading"
+    },
+    {
+      "id": "25",
+      "bookTitle": "An Eco-Critical Appraisal of the Selected",
+      "isbn": "978-81-933904-9-8",
+      "cover": "http://www.kypublications.com/Rabiawani.jpg",
+      "published": 2018,
+      "author": "Rabia Mukhtar",
+      "pages": "221",
+      "position": "New"
+    }
+  ]
+}

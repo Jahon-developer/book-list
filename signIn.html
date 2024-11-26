@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <div class="signIn_container">
+      <div class="rectangle"></div>
+      <div class="signIn_container_main">
+        <h1>Sign In</h1>
+        <form action="" class="SignIn_form">
+          <label for="username">Username</label>
+          <input
+            autocomplete="off"
+            type="text"
+            id="username"
+            name="username"
+            placeholder="Enter your Username"
+          />
+          <label for="pass">Password</label>
+          <input
+            autocomplete="off"
+            type="password"
+            name="pass"
+            id="pass"
+            placeholder="Enter your password"
+          />
+          <h5 class="message"></h5>
+          <input type="submit" value="Button" />
+          <p>
+            Already signed up? <a href="./Pages/SignUp.html">Go to sign up.</a>
+          </p>
+        </form>
+      </div>
+    </div>
+    <script src="./assets/js/signIn.js"></script>
+  </body>
+</html>
